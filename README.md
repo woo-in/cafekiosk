@@ -1,6 +1,6 @@
 # ☕ CafeKiosk
 
-> **Practical Testing: 실용적인 테스트 가이드** (박우빈) 강의를 수강하며 진행하는 학습 프로젝트입니다.
+**Practical Testing: 실용적인 테스트 가이드** (박우빈) 강의를 수강하며 진행하는 학습 프로젝트입니다.
 
 🔗 **강의 링크** — [Practical Testing: 실용적인 테스트 가이드](https://www.inflearn.com/course/practical-testing-%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C?cid=329295)
 
@@ -21,18 +21,6 @@
 
 ## 📚 이 강의를 통해 배운 것
 
-챕터별 학습 내용은 PR 단위로 기록합니다. 자세한 내용은 각 PR을 참고해주세요.
-
-| 챕터 | PR |
-| --- | --- |
-| 1 ~ 3. 테스트는 왜 필요한가 · 단위 테스트 · TDD | [#1](https://github.com/woo-in/cafekiosk/pull/1) |
-| 4. 테스트는 [ ]다 | [#2](https://github.com/woo-in/cafekiosk/pull/2) |
-| 5. Spring & JPA 기반 테스트 | 진행 중 |
-| 6. Mock을 마주하는 자세 | - |
-| 7. 더 나은 테스트를 작성하기 위한 구체적 조언 | - |
-| 8. Appendix | - |
-
-<br/>
 
 ### 1. 테스트는 왜 필요한가
 
